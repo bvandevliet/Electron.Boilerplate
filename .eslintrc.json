@@ -406,7 +406,7 @@
     ],
     "semi-spacing": "error",
     "semi-style": "error",
-    "sort-imports": "error",
+    // "sort-imports": "error", // use Organize Imports [Shift+Alt+O] instead
     "space-before-blocks": "off",
     "@typescript-eslint/space-before-blocks": [
       "error"
